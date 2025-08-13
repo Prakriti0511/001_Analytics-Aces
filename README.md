@@ -33,3 +33,14 @@ The project scrapes all pages of the site to create a complete dataset (~2000 bo
 - **Top 5 Expensive Books** — Quick SQL query to find the priciest titles.  
 - **Books per Rating** — Grouped SQL query showing counts by rating.  
 
+## 🤝 Contributing  
+Contributions are welcome!
+
+If you'd like to improve this project, feel free to fork the repository and submit a pull request. Feedback, issues, and feature suggestions are also greatly appreciated!
+
+---
+
+## ⭐ Support
+
+Thank you for visiting this project!  
+If you liked it, feel free to **⭐ star the repo** and share your thoughts or suggestions!
